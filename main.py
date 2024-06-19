@@ -49,6 +49,6 @@ if again == 1:
     play = True #executes the loop to play again
                
 elif again == 2:
-    print("Thank you for playing")
+    print("Thank you for playing Hangman")
     play = False #Stops the game
  
